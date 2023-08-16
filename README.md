@@ -1,6 +1,6 @@
 
-## NodeJS broiler plate 
-# server setup with following functionalities:
+# NodeJS broiler plate 
+## server setup with following functionalities:
 
 1. OTP Login
 2. Google Authenitcation
